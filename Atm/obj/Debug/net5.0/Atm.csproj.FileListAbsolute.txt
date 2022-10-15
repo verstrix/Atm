@@ -1,0 +1,16 @@
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.exe
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.deps.json
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.runtimeconfig.json
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.runtimeconfig.dev.json
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.dll
+D:\Programirane\c#\$Mine\Atm\Atm\bin\Debug\net5.0\Atm.pdb
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.csproj.AssemblyReference.cache
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.AssemblyInfoInputs.cache
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.AssemblyInfo.cs
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.csproj.CoreCompileInputs.cache
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.dll
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\refint\Atm.dll
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.pdb
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\Atm.genruntimeconfig.cache
+D:\Programirane\c#\$Mine\Atm\Atm\obj\Debug\net5.0\ref\Atm.dll

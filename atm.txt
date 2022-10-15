@@ -1,0 +1,6 @@
+purvo kato vlezesh v bankomata ti kazva welcome to our atm.
+if u want to continue type 1
+print welcome dimitur
+1. If u want to withdraw money type 1
+2. if u want to make a charity type 2
+3. If u wantto check your balance tupe 3
